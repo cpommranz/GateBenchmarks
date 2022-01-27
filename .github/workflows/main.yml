@@ -33,7 +33,8 @@ jobs:
                         t15_optical,
                         t16_decay,
                         t17_extended_source,
-                        t18_movement_benchmark]
+                        t18_movement_benchmark,
+                        t21_tle]
 
     steps:
     - name: Checkout github repo
